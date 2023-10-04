@@ -5,3 +5,5 @@ Ejemplo
 2- Conseguir chocolate
 3- Crear la base y añadirle dulce de leche
 4- Añedir el tope y bañarlo en chocolate caliente
+5- Dejar enfriar
+6- Disfrutar
